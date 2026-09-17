@@ -171,3 +171,4 @@ git reset --hard HEAD~1              # ⚠️ desfaz TUDO (perde alterações)
 | `git diff` | Mostra as diferenças |
 | `git restore` | Descarta mudanças |
 | `git rm` | Remove arquivos |
+
